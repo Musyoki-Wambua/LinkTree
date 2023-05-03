@@ -72,11 +72,12 @@ h1 {
     height: 96px;
     width: 96px;
     border-radius: 48px;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .image-container img {
     height: 100%;
-    /* width: 100%; */
+    border-radius: 50%;
+    width: 100%;
 }
 .icon {
     margin: 4px 8px;
